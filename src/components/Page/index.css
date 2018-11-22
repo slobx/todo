@@ -1,0 +1,9 @@
+.fab_btn{
+    position: fixed;
+    bottom: 40px;
+    right: 80px;
+}
+
+#plus_fab {
+    font-size: 1.8em;
+}

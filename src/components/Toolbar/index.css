@@ -1,0 +1,25 @@
+.toolbar {
+    height: 60px;
+}
+
+.toolbar_items {
+    display: inline;
+}
+
+.menu_icon {
+    padding-left: 30px;
+    padding-top: 10px;
+    float: left;
+}
+
+.search_icon {
+    padding-right: 30px;
+    padding-top: 10px;
+    float: right;
+}
+
+.more_icon {
+    padding-right: 30px;
+    padding-top: 10px;
+    float: right;
+}
