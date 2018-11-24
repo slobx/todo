@@ -7,3 +7,19 @@
 #plus_fab {
     font-size: 1.8em;
 }
+
+#page_main {
+    display: inline-flex;
+    margin-top: 50px;
+    width: 100%;
+}
+
+#page_left {
+    height: 100%;
+    width: 30%;
+}
+
+#page_right {
+    height: 100%;
+    width: 70%;
+}

@@ -1,6 +1,6 @@
 import React, {Component} from 'react';
 import Toolbar from './components/Toolbar';
-import Page from "./components/Page/";
+import Page from './components/Page';
 import './App.css';
 
 class App extends Component {

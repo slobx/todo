@@ -1,5 +1,5 @@
 .toolbar {
-    height: 60px;
+    height: 50px;
 }
 
 .toolbar_items {
@@ -7,19 +7,12 @@
 }
 
 .menu_icon {
-    padding-left: 30px;
-    padding-top: 10px;
+    padding-left: 50px;
     float: left;
 }
 
-.search_icon {
-    padding-right: 30px;
-    padding-top: 10px;
+.search_more_icons {
+    padding-right: 50px;
     float: right;
 }
 
-.more_icon {
-    padding-right: 30px;
-    padding-top: 10px;
-    float: right;
-}
